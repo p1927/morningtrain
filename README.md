@@ -4,8 +4,11 @@ CSV Parser based on Regex.
 Author: Pratyush Mishra
 
 CSV_Parser folder : contains the javascript code for parsing.
+
 csv_parser.js : Javascript file containing the parsing code allong with detailed comments.
+
 demo.csv : Its the sample CSV file used for testing.
+
 index.js : Shows how to use the parser. It includes the CSV_Parser using require statement.
 
 To test: 
