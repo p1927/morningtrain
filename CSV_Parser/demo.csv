@@ -1,0 +1,15 @@
+This is a demo file prepared on Microsoft Excel,,,,,
+We, Can, Parse, Comma, Seperated, Values
+Easily,We can have,"comma, inside values",",quotes """,,
+"such as ""escaped""","""'data""",,,,
+values that contain /n newline chars,,,,,
+"escaped, commas, like",",these",,,,
+un-delimited data like, this,,,,
+,empty values,,,,
+empty trailing values, ,,,,
+"""Happy"," Parsing""","""""ab""cde\n""\""""","""filler",,
+"""test""","""""test//""""",test,,,
+Track,Artist,Album,Year,,
+,,,,,
+Dangerous,'Busta Rhymes','When Disaster Strikes',1997,,
+
